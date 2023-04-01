@@ -6,6 +6,8 @@ html, body {
     height: 100%;
     padding: 0;
     margin: 0;
+    touch-action: manipulation;
+    
   }
   *, *:before, *:after {
     -webkit-tap-highlight-color: transparent;
@@ -41,6 +43,7 @@ html, body {
     background: -ms-linear-gradient(-45deg, rgba(154,57,163,1) 0%, rgba(65,103,168,1) 100%);
     background: linear-gradient(135deg, rgba(154,57,163,1) 0%, rgba(65,103,168,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9a39a3', endColorstr='#4167a8', GradientType=1 );
+    touch-action: manipulation;
   }
   h1 {
     display: block;
@@ -49,6 +52,7 @@ html, body {
     font-size: 1.92em;
     font-weight: 600;
     letter-spacing: -0.055em;
+    touch-action: manipulation;
   }
   h2 {
     display: block;
@@ -57,6 +61,7 @@ html, body {
     font-weight: 400;
     font-size: 1.25em;
     letter-spacing: -0.015em;
+    touch-action: manipulation;
   }
   .container {
     position: relative;
@@ -64,6 +69,7 @@ html, body {
     padding: 0;
     width: 100%;
     max-width: 840px;
+    touch-action: manipulation;
   }
   .search-box {
     position: relative;
