@@ -99,6 +99,7 @@ html, body {
     
     form.form1 {
         padding-top: 40px;
+        touch-action: manipulation;
     }
     
     .pass {
