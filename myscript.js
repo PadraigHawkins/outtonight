@@ -25,7 +25,7 @@ function GetValue()
     "LIVING ROOM",
     "MARKET BAR",
     "BERNARD SHAW",
-    "JIMMY RABBITTES");
+    "JIMMY RABITTS");
     var random = myarray[Math.floor(Math.random() * myarray.length)];
     document.getElementById("message").innerHTML=random;
 }
