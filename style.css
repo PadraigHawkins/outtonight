@@ -223,8 +223,8 @@ html, body {
         border: none;
         border-radius: 20px;
         cursor: pointer;
-        margin-left:36%;
-        margin-bottom: 20px;
+        margin: 0 auto;
+        display: block;
         
         
         
