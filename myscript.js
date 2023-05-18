@@ -25,3 +25,16 @@ const names = [
     const selectedNameElement = document.getElementById('selectedName');
     selectedNameElement.innerHTML = `<a href="${selectedName.link}">${selectedName.name}</a>`;
   }
+
+
+
+  window.onload = function() {
+    var popup = document.getElementById("popup");
+    popup.style.visibility = "visible";
+  }
+  
+  function closePopup() {
+    var popup = document.getElementById("popup");
+    popup.style.visibility = "hidden";
+  }
+  
