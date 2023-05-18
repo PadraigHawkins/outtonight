@@ -270,7 +270,7 @@ html, body {
       
       .popup-content {
         background-color: #ffffff;
-        color: #000000;
+        color: #1e1e1e;
         padding: 20px;
         border-radius: 10px;
         text-align: center;
@@ -301,14 +301,14 @@ html, body {
         position: absolute;
         top: 0;
         left: 8%;
-        background: peachpuff;
+        background: #F6EEE3;
         z-index: -1;
       }
       
       li {
         padding: 1rem 2rem 1rem;
-        border-radius: 1.5rem;
-        background: peachpuff;
+        border-radius: .5rem;
+        background: #F6EEE3;
       }
       
       li + li {
