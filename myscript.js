@@ -19,6 +19,9 @@ const names = [
     { name: 'HOGANS', link: 'https://goo.gl/maps/yDVMHgVoGpisuK5e6' },
     { name: 'DOYLES', link: 'https://goo.gl/maps/hT3ntGK9gqxZAWzp8' },
     { name: 'SINNOTS BAR', link: 'https://goo.gl/maps/Yz2JL8iMvoUre2Qx9' },
+    { name: 'THE CELT', link: 'https://goo.gl/maps/gJsQou8HNRm5uYUA6' },
+    { name: 'THE SILVER PENNY', link: 'https://goo.gl/maps/oDqHqqpH5qxhXEecA' },
+    { name: 'THE BLEEDING HORSE', link: 'https://goo.gl/maps/UQ2fmp7ofzGrRkJ5A' },
     { name: 'THE CAMDEN', link: 'https://goo.gl/maps/Wnj931UWRts2zWNCA' }
     
   ];
@@ -37,6 +40,8 @@ const names = [
     var popup = document.getElementById("popup");
     popup.style.visibility = "visible";
   }
+
+
   
   function closePopup() {
     var popup = document.getElementById("popup");
