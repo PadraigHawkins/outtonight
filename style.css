@@ -275,11 +275,12 @@ html, body {
         border-radius: 10px;
         text-align: center;
         font-family: 'Montserrat Alternates', sans-serif;
-        font-weight: 600;
+        font-weight: 400;
       }
       
       .popup-content h2 {
         margin-top: 0;
+        font-weight: 600;
       }
       
       .popup-content button {

@@ -18,6 +18,7 @@ const names = [
     { name: 'KEHOES PUB', link: 'https://goo.gl/maps/Gqq3awQDAhDeDsqd7' },
     { name: 'HOGANS', link: 'https://goo.gl/maps/yDVMHgVoGpisuK5e6' },
     { name: 'DOYLES', link: 'https://goo.gl/maps/hT3ntGK9gqxZAWzp8' },
+    { name: 'SINNOTS BAR', link: 'https://goo.gl/maps/Yz2JL8iMvoUre2Qx9' },
     { name: 'THE CAMDEN', link: 'https://goo.gl/maps/Wnj931UWRts2zWNCA' }
     
   ];
@@ -41,4 +42,3 @@ const names = [
     var popup = document.getElementById("popup");
     popup.style.visibility = "hidden";
   }
-  
