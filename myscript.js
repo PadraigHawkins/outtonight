@@ -14,6 +14,10 @@ const names = [
     { name: 'THE WOOL SHED', link: 'https://goo.gl/maps/t3sov5XTJtZMS4jE6' },
     { name: 'SIN E', link: 'https://goo.gl/maps/vvcHKfdNimswsR5t8' },
     { name: 'FLANNERYS', link: 'https://goo.gl/maps/rnCNfPHpLcpcV6o36' },
+    { name: 'STAGS HEAD', link: 'https://goo.gl/maps/AkZgizjsmxcsQXjW9' },
+    { name: 'KEHOES PUB', link: 'https://goo.gl/maps/Gqq3awQDAhDeDsqd7' },
+    { name: 'HOGANS', link: 'https://goo.gl/maps/yDVMHgVoGpisuK5e6' },
+    { name: 'DOYLES', link: 'https://goo.gl/maps/hT3ntGK9gqxZAWzp8' },
     { name: 'THE CAMDEN', link: 'https://goo.gl/maps/Wnj931UWRts2zWNCA' }
     
   ];
