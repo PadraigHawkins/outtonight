@@ -211,7 +211,7 @@ html, body {
       button {
         padding: 10px 40px;
         font-size: 14px;
-        background-color: #F5B11D;
+        background-color: #cb4c25d7;
         font-family: 'Ubuntu', sans-serif;
         color: #ffffff;
         border: none;
@@ -225,7 +225,7 @@ html, body {
       }
       
       button:hover {
-        background-color: #cb4c25be;
+        background-color: #d24141;
       }
   
       #selectedName {
