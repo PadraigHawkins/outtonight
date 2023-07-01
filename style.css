@@ -63,7 +63,7 @@ html, body {
   .container {
     position: relative;
     margin: calc(75px + 2vh + 2vw) auto 0 auto;
-    background-color:#f2af14ed;
+    background-color:#f2af14;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
@@ -214,7 +214,7 @@ html, body {
       button {
         padding: 10px 40px;
         font-size: 14px;
-        background-color: #f77b46;
+        background-color: #cd5a28;
         font-family: 'Ubuntu', sans-serif;
         color: #ffffff;
         border: none;
