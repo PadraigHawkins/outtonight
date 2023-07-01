@@ -83,7 +83,4 @@ form.addEventListener('submit', e => {
 		submitted.style.top = '0'
 	}, 2090)
 })
-
-
-
   
