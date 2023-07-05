@@ -10,8 +10,6 @@ html, body {
     
   }
 
-
-
   *, *:before, *:after {
     -webkit-tap-highlight-color: transparent;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
@@ -319,10 +317,6 @@ html, body {
         font-size: 1.8rem;
       }
       
-
-
-      
-
       
       
       
