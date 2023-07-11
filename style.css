@@ -242,8 +242,9 @@ html, body {
       }
   
       #selectedName a {
-        color: #102770;
+        color: #2859a7;
         text-decoration: none;
+        font-family: 'Rockwell', sans-serif;
       }
   
       #selectedName a:hover {
