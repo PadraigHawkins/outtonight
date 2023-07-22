@@ -172,7 +172,7 @@ html, body {
       color: #102770;
       font-family: 'Georgia', sans-serif;
       font-weight: bold;
-      font-size: 30px;
+      font-size: 35px;
       touch-action: manipulation;
       
       
@@ -235,7 +235,7 @@ html, body {
       #selectedName {
         margin-top: 50px;
         margin-bottom: 50px;
-        font-size: 33px;
+        font-size: 30px;
         font-weight: 700;
         font-family: 'Montserrat Alternates', sans-serif;
         text-align: center;
