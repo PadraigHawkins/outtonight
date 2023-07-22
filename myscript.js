@@ -32,7 +32,6 @@ const names = [
     { name: 'RYANS BAR', link: 'https://goo.gl/maps/TGaGDuCCxZHCp9oN6' },
     { name: 'PORTER HOUSE', link: 'https://goo.gl/maps/Np4YE2DnAfc1VUDN8' },
     { name: 'SEARSONS', link: 'https://goo.gl/maps/enszG5ZaMLwo6yy99' },
-    { name: 'AGAINST THE GRAIN', link: 'https://goo.gl/maps/N2X3hohpjGvtWwd89' },
     { name: 'THE CAMDEN', link: 'https://goo.gl/maps/Wnj931UWRts2zWNCA' }
     
   ];
