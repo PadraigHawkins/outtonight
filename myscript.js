@@ -36,6 +36,8 @@ const names = [
     
   ];
 
+  
+
   function selectRandomName() {
     const randomIndex = Math.floor(Math.random() * names.length);
     const selectedName = names[randomIndex];
