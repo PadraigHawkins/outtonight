@@ -22,6 +22,17 @@ const names = [
     { name: 'THE CELT', link: 'https://goo.gl/maps/gJsQou8HNRm5uYUA6' },
     { name: 'SILVER PENNY', link: 'https://goo.gl/maps/oDqHqqpH5qxhXEecA' },
     { name: 'BLEEDING HORSE', link: 'https://goo.gl/maps/UQ2fmp7ofzGrRkJ5A' },
+    { name: 'HAIRY LEMON', link: 'https://goo.gl/maps/HyLKMu9rRuy9CrW78' },
+    { name: 'THE BREW DOCK', link: 'https://goo.gl/maps/WSH5Xq1SKYR3rFg46' },
+    { name: 'SLATTERYS BAR', link: 'https://goo.gl/maps/2nTiExXZGffrUoHNA' },
+    { name: 'WIGWAM', link: 'https://goo.gl/maps/FYTuTR1t7TqFt37M9' },
+    { name: 'LIVING ROOM', link: 'https://goo.gl/maps/MrWPWKoT7rrgaL8D8' },
+    { name: 'BRAZEN HEAD', link: 'https://goo.gl/maps/SPMNkFEBtoXCjLRt7' },
+    { name: 'PALACE BAR', link: 'https://goo.gl/maps/497s4x8zRMm5Xj7MA' },
+    { name: 'RYANS BAR', link: 'https://goo.gl/maps/TGaGDuCCxZHCp9oN6' },
+    { name: 'PORTER HOUSE', link: 'https://goo.gl/maps/Np4YE2DnAfc1VUDN8' },
+    { name: 'SEARSONS', link: 'https://goo.gl/maps/enszG5ZaMLwo6yy99' },
+    { name: 'AGAINST THE GRAIN', link: 'https://goo.gl/maps/N2X3hohpjGvtWwd89' },
     { name: 'THE CAMDEN', link: 'https://goo.gl/maps/Wnj931UWRts2zWNCA' }
     
   ];
